@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstawie=self.webpackChunkstawie||[]).push([[9111],{5518:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/StawiDocumentation/blog/tags/facebook","allTagsPath":"/StawiDocumentation/blog/tags","count":1}')}}]);

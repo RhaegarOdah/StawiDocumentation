@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstawie=self.webpackChunkstawie||[]).push([[1305],{5629:e=>{e.exports=JSON.parse('{"permalink":"/StawiDocumentation/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

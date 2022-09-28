@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstawie=self.webpackChunkstawie||[]).push([[8507],{7372:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/StawiDocumentation/blog/tags/docusaurus","allTagsPath":"/StawiDocumentation/blog/tags","count":4}')}}]);
